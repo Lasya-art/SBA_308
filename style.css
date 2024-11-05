@@ -30,7 +30,7 @@ body {
 button {
     padding: 10px 20px;
     font-size: 16px;
-  /* //  cursor: pointer; */
+  
     border: none;
     border-radius: 5px;
     background-color: #efe9e8;
@@ -56,7 +56,7 @@ button:hover {
     position: fixed; 
     top: 0; 
     width: 100%; 
-    z-index: 1000; 
+   
 }
 
 .navbar ul {
